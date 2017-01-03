@@ -11,4 +11,3 @@
 	webhook-url = 'https://hooks.slack.com/services/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'
 	show-only-last-commit = false
   repo-nice-name 'Our Awesome Project'
-  
