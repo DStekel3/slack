@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+	sharedrepository = 2664
+[receive]
+	denyNonFastforwards = true
+[hooks "slack"]
+	webhook-url = 'https://hooks.slack.com/services/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'
+	show-only-last-commit = false
